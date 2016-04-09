@@ -1,0 +1,32 @@
+h1{
+	color:white;
+	text-align:center;
+}
+p{
+	font-size:40px;
+	color:white;
+	text-align:center;
+}
+h6{
+	color:white;
+	text-align:center;
+}
+h3{
+	color:white;
+	text-align:center;
+}
+.small{
+	font-size:40px;
+}
+h6{
+	color:white;
+	text-align:center;
+}
+img{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+body{
+	background-color:pink;
+}
